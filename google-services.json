@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "264904809448",
+    "project_id": "tema-7-43731",
+    "storage_bucket": "tema-7-43731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264904809448:android:cad2765da90c685e42225d",
+        "android_client_info": {
+          "package_name": "com.viktor.tema7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264904809448-5qm87j6suu8t8frtamng440hhbl5g8ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhSB6lftERr4rMlVAI93x_4X3eQ2AOkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264904809448-5qm87j6suu8t8frtamng440hhbl5g8ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264904809448-h1hqcecvhcl6grpvokhlv2h3aijbq5i4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.viktor.tema7"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
